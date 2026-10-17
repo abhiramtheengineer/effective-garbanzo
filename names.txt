@@ -4,9 +4,10 @@ git commands
 2.git init --> initializes the folder
 3.ls --> to see folder contents
 4.ls -a --> to see the hidden folders
-5.ls [file name example: .git] --> to see the file contents
+5.ls [file name example: .git] --> to see the folder contents
 6.touch [file name.file extension] --> to create a file with the given file name and given extension(example: .txt)
 7.git status-->to check the status of the branch
 8.git add ./file name -->to stage the file(s)
-9.git commit -m"any message you want to pass regarding the commit" --> commits the staged file
-10.
+9.git commit -m"any message you want to pass regarding the commit" --> commits the staged files
+10.vi [file name]-->to edit a file in the git bash
+11.cat [file name]--> displays the contents of the file
