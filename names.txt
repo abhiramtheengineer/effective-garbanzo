@@ -10,5 +10,3 @@ git commands
 8.git add ./file name -->to stage the file(s)
 9.git commit -m"any message you want to pass regarding the commit" --> commits the staged file
 10.
-
-kllkl
