@@ -1,0 +1,6 @@
+--remote git commands--
+
+1.git remote add origin [link of the github repo] -->adds the remote version of the github repo
+2.git remote -v -->displays the list of all the local repo associated with the project
+3.git push origin [master/main/the branch you want to push the files to ] --> pushes the files to the github repo 
+
