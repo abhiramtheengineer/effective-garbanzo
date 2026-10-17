@@ -11,3 +11,4 @@ git commands
 9.git commit -m"any message you want to pass regarding the commit" --> commits the staged files
 10.vi [file name]-->to edit a file in the git bash
 11.cat [file name]--> displays the contents of the file
+12.git log-->to see the commit histor
